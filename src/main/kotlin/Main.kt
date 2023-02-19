@@ -142,7 +142,7 @@ fun main() {
     WallService.add(post2)
     WallService.add(post3)
     WallService.add(repost)
-   // WallService.printPost(3)
+    WallService.printPost(3)
     WallService.update(post5)
     WallService.update(post4)
     WallService.createComment(1,comment)
